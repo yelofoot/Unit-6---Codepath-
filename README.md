@@ -3,9 +3,13 @@ Bitfit Part 2
 
 # Android Project 6 - *Name of App Here*
 
-Submitted by: **Your Name Here**
+Submitted by: Tyler Austin
 
-**Name of your app** is a health metrics app that allows users to track ... [TODO] 
+Bitfit is a health metrics app that allows users to track 
+
+- sleep
+- water intake
+- daily vitamin intake
 
 Time spent: **X** hours spent in total
 
