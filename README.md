@@ -1,7 +1,7 @@
 # Unit-6---Codepath-
 Bitfit Part 2
 
-# Android Project 6 - *Name of App Here*
+# Android Project 6 - BitFit PT 2
 
 Submitted by: Tyler Austin
 
@@ -11,19 +11,19 @@ Bitfit is a health metrics app that allows users to track
 - water intake
 - daily vitamin intake
 
-Time spent: **X** hours spent in total
+Time spent: 4 hours spent in total
 
 ## Required Features
 
 The following **required** functionality is completed:
 
-- [ ] **Use at least 2 Fragments**
-- [ ] **Create a new dashboard fragment where users can see a summary of their entered data**
-- [ ] **Use one of the Navigation UI Views (BottomNavigation, Drawer Layout, Top Bar) to move between the fragments**
+- [X] **Use at least 2 Fragments**
+- [X] **Create a new dashboard fragment where users can see a summary of their entered data**
+- [X] **Use one of the Navigation UI Views (BottomNavigation, Drawer Layout, Top Bar) to move between the fragments**
 
 The following **optional** features are implemented:
 
-- [ ] **Add a more advanced UI (e.g: Graphing) for tracking trends in metrics**
+- [X] **Add a more advanced UI (e.g: Graphing) for tracking trends in metrics**
 - [ ] **Implement daily notifications to prompt users to fill in their data**
 
 The following **additional** features are implemented:
